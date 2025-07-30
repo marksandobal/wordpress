@@ -112,12 +112,12 @@ $ mysql -u root -p
 ```
 
 * Es posible que los valores se encuentren como https://localhost:8002 y http://localhost:8002. Tendras algo como esto:
-+-------------+-----------------------+
+
 | option_name | option_value          |
-+-------------+-----------------------+
+|-------------|-----------------------|
 | home        | http://localhost:8002 |
 | siteurl     | http://localhost:8002 |
-+-------------+-----------------------+
+
 
 * Actualizalos al dominio que usaste, si seguiste las instrucciones tal cual de esta instalación, entonces su dominio es igual a mitienda.local
 
